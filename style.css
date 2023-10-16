@@ -1,0 +1,19 @@
+h1{
+    align-items: center;
+    font-size: 5em;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+div{
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 45%;
+}
+#like{
+    font-size: 5em;
+    margin-right: 5%;
+}
+#dislike{
+    margin-left: 5%;
+    font-size: 5em;
+}
